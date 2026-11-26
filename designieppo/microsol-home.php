@@ -119,7 +119,7 @@ modifica delle 17.14
   
      <div class="report" >
                 
-               
+               pagina iniziale di sessione
                       
             <h3>"Per me nascere e crescere in una comunità rurale è stata una benedizione.
 <br><br>
