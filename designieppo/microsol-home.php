@@ -9,9 +9,6 @@ Author URI:
 Tags:
 */
 
-se io modifico questo alle 17.12
-
-
 if ( ! get_progetti ($progetti, $myquery, $myerror, false, false)) {
    microsol_error ($myerror);
 }
@@ -53,8 +50,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 <?php include "navigation.php"; ?>
-
-modifica delle 17.14
 
 <div class="container">
     
