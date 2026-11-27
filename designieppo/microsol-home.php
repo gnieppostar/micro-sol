@@ -9,7 +9,7 @@ Author URI:
 Tags:
 */
 
-se io modifico questo alle 17.12
+
 
 
 if ( ! get_progetti ($progetti, $myquery, $myerror, false, false)) {
@@ -54,7 +54,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <?php include "navigation.php"; ?>
 
-modifica delle 17.14
+
 
 <div class="container">
     
@@ -119,7 +119,7 @@ modifica delle 17.14
   
      <div class="report" >
                 
-               pagina iniziale di sessione
+               modifica delle 11.08 venerdì
                       
             <h3>"Per me nascere e crescere in una comunità rurale è stata una benedizione.
 <br><br>
