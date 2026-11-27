@@ -5,8 +5,8 @@ on:
     branches:
       - main
     paths:
-      
       - ".github/workflows/deploy.yml"
+      - "designieppo/microsol-home.php"
 
 jobs:
   deploy:
