@@ -114,7 +114,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
      <div class="report" >
                 
-                      modifica sabato 18.29
+                      modifica sabato 18.38
             <h3>"Per me nascere e crescere in una comunità rurale è stata una benedizione.
 <br><br>
 			 Ringrazio la Cooperativa perchè sostiene il lavoro nei campi"
