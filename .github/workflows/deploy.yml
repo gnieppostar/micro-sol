@@ -21,6 +21,6 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           protocol: ftps
-          local-dir: wp-content/themes/microsol
-          server-dir: 
+          local-dir:
+          server-dir:  wp-content/themes/microsol
           dangerous-clean-slate: false
